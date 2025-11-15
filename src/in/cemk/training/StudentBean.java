@@ -37,9 +37,6 @@ public class StudentBean {
 	}
 	public void setMobileno(long mobileno) {
 		this.mobileno = mobileno;
-	}
-	
-	
-	
+	}	
 }
 
