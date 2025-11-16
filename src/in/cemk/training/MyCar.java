@@ -8,7 +8,7 @@ public class MyCar extends Suzuki{
 	public static void main(String[] args) {
 		MyCar myCar = new MyCar();
 		myCar.car();
-
+		
 	}
 
 }
