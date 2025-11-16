@@ -6,6 +6,14 @@ public class StudentBean {
 	private String rollno;
 	private String email;
 	private int age;
+	private double incentive;
+	
+	public double getIncentive() {
+		return incentive;
+	}
+	public void setIncentive(double incentive) {
+		this.incentive = incentive;
+	}
 	private long mobileno;
 	
 	public String getName() {
